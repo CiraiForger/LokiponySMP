@@ -1,0 +1,3 @@
+/kill cgh_01
+/graves
+/kill cgh_01
